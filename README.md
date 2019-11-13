@@ -65,4 +65,4 @@ CREATE TABLE reply(
 WebContent/ui_sample/**
 
 #### 5. 실행 영상
--youtube주소 : <https://blog.naver.com/jungju4545/221706441975>
+-네이버 주소 : <https://blog.naver.com/jungju4545/221706441975>
